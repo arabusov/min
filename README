@@ -1,0 +1,5 @@
+                               ANSI C minimizer 
+                               ================ 
+
+This is a very simple minimizer written in ANSI C. It can be compiled with
+ACK on MINIX-1 and runs on 16-bit machine (although, quite slow).
